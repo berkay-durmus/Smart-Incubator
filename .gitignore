@@ -29,4 +29,11 @@
 # Executables
 *.exe
 *.out
-*.app
+*.app# Build output
+build/
+*.hex
+*.elf
+
+# IDE
+.idea/
+.vscode/
